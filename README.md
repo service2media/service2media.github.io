@@ -7,7 +7,7 @@ which means that you'll find no code here, only the help page and documentation
 
 #Public repositories
 You can start using the following repositories:
-1. m2active-script-components --> reusable M2Active components (script only, no native code included)
-2. m2active-tools --> handy shell-scripts and in the future, probably even more shell-scripts :)
+*m2active-script-components --> reusable M2Active components (script only, no native code included)
+*m2active-tools --> handy shell-scripts and in the future, probably even more shell-scripts :)
 
 #Getting started
