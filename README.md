@@ -1,4 +1,4 @@
-service2media.github.io
+Service2media.github.io
 =======================
 
 Welcome to the official Service2Media github pages! Here you'll find all opensource stuff that you can freely download, 
