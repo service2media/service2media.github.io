@@ -22,7 +22,7 @@ $ git clone https://github.com/service2media/m2active-script-components
 Obviously you'll need the git command-line tooling. You can find the available script components here and start adding
 those to your project
 
-#Getting start with the M2Active Package Manager (MPM)
+#Getting started with the M2Active Package Manager (MPM)
 To make downloading and installing a little bit easier, there is a package manager called mpm available. This basically 
 allows you to download and add a specific version tot your project. 
 
