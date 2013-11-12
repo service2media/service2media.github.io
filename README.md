@@ -8,7 +8,26 @@ which means that you'll find no code here (yuck!), only the help page and genera
 #Public repositories
 Currently we serve the following repositories:
 
-1. m2active-script-components --> reusable M2Active components (script only, no native code included)
-2. m2active-tools --> handy shell-scripts and in the future, probably even more shell-scripts :)
+1. https://github.com/service2media/m2active-script-components || reusable M2Active components (script only, no native code included)
+2. https://github.com/service2media/m2active-tools || M2Active package + in the future handy shell-scripts and probably even more shell-scripts :)
 
 #Getting started
+There are two ways to get started. First if you are an experienced git user you probably don't need to read this 
+and probably want to clone the m2active-script-components repository right ahead. 
+
+```
+$ git clone https://github.com/service2media/m2active-script-components
+```
+
+Obviously you'll need the git command-line tooling. You can find the available script components here and start adding
+those to your project
+
+#Getting start with mpm
+To make downloading and installing a little bit easier, there is a package manager called mpm available. This basically 
+allows you to download and add a specific version tot your project. 
+
+
+```
+$ git clone https://github.com/service2media/m2active-tools
+$ cd m2active-tools
+```
