@@ -27,10 +27,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h1>
-<a name="service2mediagithubio" class="anchor" href="#service2mediagithubio"><span class="octicon octicon-link"></span></a>Service2media.github.io</h1>
-
-<p>Welcome to the official Service2Media github pages! Here you'll find all opensource stuff that you can freely download, 
+        <p>Welcome to the official Service2Media github pages! Here you'll find all opensource stuff that you can freely download, 
 use, include, redistribute or whatever you want. Please note that this repository purely serves as the base for Github pages 
 which means that you'll find no code here (yuck!), only the help page and general documentation...</p>
 
@@ -64,7 +61,12 @@ allows you to download and add a specific version tot your project. </p>
 
 <pre><code>$ git clone https://github.com/service2media/m2active-tools
 $ cd m2active-tools
+$ ./install.sh
+$ ./env.sh (only for the current shell)
 </code></pre>
+
+<p>That's about it! You can use mpm from within your $PATH. If you want the solution to stick, append the contents of env.sh
+to your PATH (Mac Os X and Linux) using .bashrc or .bash_profile.</p>
       </section>
     </div>
 
