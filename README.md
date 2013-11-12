@@ -30,4 +30,10 @@ allows you to download and add a specific version tot your project.
 ```
 $ git clone https://github.com/service2media/m2active-tools
 $ cd m2active-tools
+$ ./install.sh
+$ ./env.sh (only for the current shell)
 ```
+
+That's about it! You can use mpm from within your $PATH. If you want the solution to stick, append the contents of env.sh
+to your PATH (Mac Os X and Linux) using .bashrc or .bash_profile.
+
